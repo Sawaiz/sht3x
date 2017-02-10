@@ -1,0 +1,15 @@
+{
+  "name": "sht3x",
+  "version": "1.0.0",
+  "description": "Sensiron SHT-3x Humidity and Temprature sensor library.",
+  "main": "sht3x.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sawaiz",
+  "license": "ISC",
+  "dependencies": {
+    "raspi": "^3.0.5",
+    "raspi-i2c": "^5.0.3"
+  }
+}
